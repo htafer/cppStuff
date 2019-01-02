@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/htafer/CLionProjects/NameSpace/Animals.h
+
+/home/htafer/CLionProjects/NameSpace/Cat.h
+
+/home/htafer/CLionProjects/NameSpace/main.cpp
+iostream
+-
+Cat.h
+/home/htafer/CLionProjects/NameSpace/Cat.h
+Animals.h
+/home/htafer/CLionProjects/NameSpace/Animals.h
+

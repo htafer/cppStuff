@@ -1,0 +1,11 @@
+//
+// Created by htafer on 28.12.18.
+//
+
+#ifndef MULTIDIMENSIONAL_ARRAYS_CPP_UTILS_H
+#define MULTIDIMENSIONAL_ARRAYS_CPP_UTILS_H
+
+void doSomething();
+
+
+#endif //MULTIDIMENSIONAL_ARRAYS_CPP_UTILS_H

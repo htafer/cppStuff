@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/multidimensional_arrays_cpp.dir/main.cpp.o CMakeFiles/multidimensional_arrays_cpp.dir/utils.cpp.o  -o multidimensional_arrays_cpp 

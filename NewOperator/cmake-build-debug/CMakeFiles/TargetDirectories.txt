@@ -1,0 +1,3 @@
+/home/htafer/CLionProjects/NewOperator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/htafer/CLionProjects/NewOperator/cmake-build-debug/CMakeFiles/NewOperator.dir
+/home/htafer/CLionProjects/NewOperator/cmake-build-debug/CMakeFiles/edit_cache.dir

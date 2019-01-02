@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/NameSpace2.dir/main.cpp.o CMakeFiles/NameSpace2.dir/Animals.cpp.o CMakeFiles/NameSpace2.dir/Cat.cpp.o  -o NameSpace2 

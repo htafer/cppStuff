@@ -1,0 +1,3 @@
+/home/htafer/CLionProjects/multidimensional-arrays.cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/htafer/CLionProjects/multidimensional-arrays.cpp/cmake-build-debug/CMakeFiles/multidimensional_arrays_cpp.dir
+/home/htafer/CLionProjects/multidimensional-arrays.cpp/cmake-build-debug/CMakeFiles/edit_cache.dir

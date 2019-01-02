@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/htafer/CLionProjects/multidimensional-arrays.cpp/main.cpp
+iostream
+-
+utils.h
+/home/htafer/CLionProjects/multidimensional-arrays.cpp/utils.h
+
+/home/htafer/CLionProjects/multidimensional-arrays.cpp/utils.cpp
+iostream
+-
+utils.h
+/home/htafer/CLionProjects/multidimensional-arrays.cpp/utils.h
+
+/home/htafer/CLionProjects/multidimensional-arrays.cpp/utils.h
+
