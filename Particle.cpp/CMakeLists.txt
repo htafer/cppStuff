@@ -4,3 +4,6 @@ project(Particle_cpp)
 set(CMAKE_CXX_STANDARD 14)
 
 add_executable(Particle_cpp main.cpp)
+# From https://stackoverflow.com/questions/44998233/add-external-c-libraries-to-a-clion-project
+include_directories("/usr/include/SDL2")
+target_link_libraries(Particle_cpp "/usr/lib/x86_64-linux-gnu/libSDL.so")
