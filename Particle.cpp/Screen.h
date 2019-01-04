@@ -14,14 +14,15 @@ namespace caveofprogramming {
 
     class Screen {
     public:
-         static const int SCREEN_WIDTH= 800;
-         static const int SCREEN_HEIGHT= 600;
+         static const int SCREEN_WIDTH= 1024;
+         static const int SCREEN_HEIGHT= 1024;
 
     private:
         SDL_Window* m_window;
         SDL_Renderer* m_renderer;
         SDL_Texture* m_texture;
-        Uint32* m_buffer;
+        Uint32* m_buffer1;
+        Uint32* m_buffer2;
 
     public:
 
@@ -29,6 +30,10 @@ namespace caveofprogramming {
         bool init();
         bool processEvents();
         void close();
+        void setPixel(int,int,int,int,int);
+        void update();
+        void clear();
+        void boxBlur();
 
     };
 }
