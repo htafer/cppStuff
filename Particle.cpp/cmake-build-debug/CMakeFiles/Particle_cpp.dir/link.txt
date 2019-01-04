@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11 -fopenmp -g   CMakeFiles/Particle_cpp.dir/main.cpp.o CMakeFiles/Particle_cpp.dir/Screen.cpp.o CMakeFiles/Particle_cpp.dir/Particle.cpp.o CMakeFiles/Particle_cpp.dir/Swarm.cpp.o  -o Particle_cpp /usr/lib/x86_64-linux-gnu/libSDL2.so 
