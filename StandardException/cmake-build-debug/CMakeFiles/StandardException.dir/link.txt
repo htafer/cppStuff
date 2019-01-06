@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/StandardException.dir/main.cpp.o  -o StandardException 
