@@ -48,18 +48,12 @@ int main () {
     //Two dimensional vectors with iterators
     vector<vector<int>> gri(5,vector<int>(4,3));
     //We do the same with iterator
-    for(vector<vector<int>>::iterator row=gri.begin(); row!=gri.end(); row++){
-        for(vector<int>::iterator col=(*row).begin(); col!=(*row).end(); col++){
+    for(vector<vector<int>>::iterator row=gri.begin(); row!=gri.end(); row++) {
+        for (vector<int>::iterator col = (*row).begin(); col != (*row).end(); col++) {
             cout << *col << " " << flush;
         }
         cout << endl;
     }
-
-
-
-
-
-
 
     cout << strings[1] << strings.size() << endl;
 }
