@@ -1,0 +1,3 @@
+/home/htafer/CLionProjects/writeFile/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/htafer/CLionProjects/writeFile/cmake-build-debug/CMakeFiles/writeFile.dir
+/home/htafer/CLionProjects/writeFile/cmake-build-debug/CMakeFiles/edit_cache.dir

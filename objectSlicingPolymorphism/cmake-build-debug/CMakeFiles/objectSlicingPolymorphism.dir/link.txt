@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/objectSlicingPolymorphism.dir/main.cpp.o  -o objectSlicingPolymorphism 

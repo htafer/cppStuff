@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/bind.dir/main.cpp.o  -o bind 

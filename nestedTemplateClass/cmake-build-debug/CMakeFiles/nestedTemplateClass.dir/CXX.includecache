@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/htafer/CLionProjects/nestedTemplateClass/main.cpp
+iostream
+-
+ring3.h
+/home/htafer/CLionProjects/nestedTemplateClass/ring3.h
+
+/home/htafer/CLionProjects/nestedTemplateClass/ring3.cpp
+ring3.h
+/home/htafer/CLionProjects/nestedTemplateClass/ring3.h
+
+/home/htafer/CLionProjects/nestedTemplateClass/ring3.h
+iostream
+-
+

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/functors.dir/main.cpp.o  -o functors 

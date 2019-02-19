@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/nestedTemplateClass.dir/main.cpp.o CMakeFiles/nestedTemplateClass.dir/ring.cpp.o CMakeFiles/nestedTemplateClass.dir/ring3.cpp.o  -o nestedTemplateClass 
